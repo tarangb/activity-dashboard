@@ -1,0 +1,41 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.log
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+*.pom
+!*.jar
+
+# Gradle
+.gradle/
+build/
+*.gradle
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+out/
+*.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Keystore file
+keystore.p12
